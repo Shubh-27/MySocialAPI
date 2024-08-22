@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext 'Server=localhost;Database=MySocialDB;Trusted_Connection=True;' -OutputDir "TenantDB" -dataannotations Microsoft.EntityFrameworkCore.SqlServer -NoOnConfiguring -f -Context MySocialAppDBContext
